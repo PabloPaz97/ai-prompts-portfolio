@@ -22,11 +22,13 @@ Plan dividido por semanas, con variedad de platos equilibrados y reutilización 
 Ajustar el contexto (actividad física, ubicación, preferencias) mejoró notablemente la relevancia de la respuesta.
 
 ---
-
 ## 💼 Más ejemplos
 - Prompts para marketing digital (campañas y descripciones de producto).  
 - Prompts para generar contenido en redes sociales.  
 - Prompts para análisis de texto o resumen inteligente.  
+
+- [🎮 Idea de videojuego estilo sátira + narrativa profunda](prompts/videojuego-satira-ninja.md)
+
 
 ---
 
