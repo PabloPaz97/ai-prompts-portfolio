@@ -9,18 +9,6 @@ Mostrar ejemplos de prompts reales que diseñé, explicando su contexto, propós
 
 ---
 
-## 📁 Ejemplo #1 – Plan de dieta mensual personalizada
-**Objetivo:** Generar un plan alimenticio mensual adaptado a un perfil específico.  
-**Contexto:** Usuario que entrena 3 veces por semana y busca mantener el peso.  
-**Prompt usado:**  
-> Solicité a la IA que actuara como nutricionista y generara un plan de dieta mensual basado en mis hábitos, nivel de actividad física y preferencia por distintas comidas.
-
-**Resultado:**  
-Plan dividido por semanas, con variedad de platos equilibrados y reutilización de ingredientes.
-
-**Aprendizaje:**  
-Ajustar el contexto (actividad física, ubicación, preferencias) mejoró notablemente la relevancia de la respuesta.
-
 ---
 ## 💼 Más ejemplos
 - Prompts para marketing digital (campañas y descripciones de producto).  
@@ -28,7 +16,7 @@ Ajustar el contexto (actividad física, ubicación, preferencias) mejoró notabl
 - Prompts para análisis de texto o resumen inteligente.  
 
 - [🎮 Idea de videojuego estilo sátira + narrativa profunda](prompts/videojuego-satira-ninja.md)
-
+- [🥞 Idea de plan de dieta mensual personalizada](prompts/plan-dieta-menusal-personalizada.md)
 
 ---
 
