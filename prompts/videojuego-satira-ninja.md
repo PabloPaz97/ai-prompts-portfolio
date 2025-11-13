@@ -1,4 +1,4 @@
----
+___
 
 ## 🎮 Ejemplo  – Idea de videojuego estilo sátira + narrativa profunda
 
