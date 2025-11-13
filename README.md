@@ -8,8 +8,6 @@ Me especializo en crear prompts efectivos para tareas de generación de texto, m
 Mostrar ejemplos de prompts reales que diseñé, explicando su contexto, propósito y los resultados obtenidos.
 
 ---
-
----
 ## 💼 Más ejemplos
 - Prompts para marketing digital (campañas y descripciones de producto).  
 - Prompts para generar contenido en redes sociales.  
