@@ -1,6 +1,6 @@
 _____
 
-## 🛠️ Ejemplo #2 – Asistente técnico para análisis de logs ##
+## 🛠️ Ejemplo – Asistente técnico para análisis de logs ##
 
 **🧠 Objetivo del prompt:**
 Crear un analizador inteligente que interpreta logs de aplicaciones, detecta patrones de error y propone soluciones concretas para desarrolladores o equipos de soporte.
