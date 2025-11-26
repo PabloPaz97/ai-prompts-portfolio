@@ -18,7 +18,8 @@ Mostrar ejemplos de prompts reales que diseñé, explicando su contexto, propós
 - [🗂️ Automatizacion de documentos de IA](prompts/automatizacion-IA.md)
 - [🤖 Mejora de UX en chatbots corporativos](prompts/mejora-ux.md)
 - [🛠️ Asistente para analisis de logs](prompts/asistente-para-analisis-de-logs.md)
-
+- [🎧 Asistente de soporte al cliente automatizado](prompts/asistente-de-soporte-cliente.md)
+  
 ---
 
 ## 🧰 Herramientas utilizadas
