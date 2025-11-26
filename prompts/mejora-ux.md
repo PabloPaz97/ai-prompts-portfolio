@@ -1,6 +1,6 @@
 ___
 
-## 🤖 Ejemplo #3 – Mejora de UX en chatbots corporativos
+## 🤖 Ejemplo – Mejora de UX en chatbots corporativos
 
 **🧠 Objetivo del prompt:**
 Optimizar un chatbot existente para que interactúe de forma más clara, eficiente y útil, reduciendo fricción y respuestas confusas.
