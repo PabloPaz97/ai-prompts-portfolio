@@ -16,7 +16,9 @@ Mostrar ejemplos de prompts reales que diseñé, explicando su contexto, propós
 - [🎮 Idea de videojuego estilo sátira + narrativa profunda](prompts/videojuego-satira-ninja.md)
 - [🥞 Idea de plan de dieta mensual personalizada](prompts/plan-dieta-menusal-personalizada.md)
 - [🗂️ Automatizacion de documentos de IA](prompts/automatizacion-IA.md)
-  
+- [🤖 Mejora de UX en chatbots corporativos](prompts/mejora-ux.md)
+- [🛠️ Asistente para analisis de logs](prompts/asistente-para-analisis-de-logs.md)
+
 ---
 
 ## 🧰 Herramientas utilizadas
