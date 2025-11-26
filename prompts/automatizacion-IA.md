@@ -1,5 +1,5 @@
 ___
-🗂️ Ejemplo #1 – Automatización de documentos con IA
+🗂️ Ejemplo – Automatización de documentos con IA
 
 🧠 Objetivo del prompt:
 Transformar un PDF desordenado (informes, contratos o manuales) en un documento estructurado, resumido y listo para usar. Ideal para empresas que manejan mucha documentación repetitiva.
