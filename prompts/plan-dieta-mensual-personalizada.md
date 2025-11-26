@@ -1,6 +1,6 @@
 ___
 
-## 🥗 Ejemplo #4 – Generación de dieta mensual personalizada
+## 🥗 Ejemplo – Generación de dieta mensual personalizada
 
 **🧠 Objetivo del prompt:**  
 Crear un plan de alimentación mensual adaptado a los hábitos y preferencias del usuario (sin sal agregada, equilibrado y práctico para el día a día).
