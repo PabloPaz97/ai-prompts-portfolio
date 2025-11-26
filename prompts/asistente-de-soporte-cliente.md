@@ -1,6 +1,6 @@
 ___
 
-##🎧 Ejemplo #4 – Asistente de soporte al cliente automatizado##
+##🎧 Ejemplo – Asistente de soporte al cliente automatizado
 
 **🧠 Objetivo del prompt:**
 Crear un sistema que responda tickets de soporte de manera automática: resumirlos, priorizarlos y generar una respuesta basada en políticas reales de la empresa.
