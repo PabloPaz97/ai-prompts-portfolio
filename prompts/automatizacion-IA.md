@@ -6,8 +6,7 @@ ___
 Transformar un PDF desordenado (informes, contratos o manuales) en un documento estructurado, resumido y listo para usar. Ideal para empresas que manejan mucha documentación repetitiva.
 
 **💬 Prompt utilizado:**
-
-“Recibí este texto extraído de un PDF. Quiero que lo conviertas en un documento limpio, con secciones claras, títulos, listas y formato profesional. Si hay ruido, datos repetidos o fragmentos dañados, corregilos automáticamente. Mostrame un before/after.”
+> “Recibí este texto extraído de un PDF. Quiero que lo conviertas en un documento limpio, con secciones claras, títulos, listas y formato profesional. Si hay ruido, datos repetidos o fragmentos dañados, corregilos automáticamente. Mostrame un before/after.”
 
 **🤖 Modelo usado:** ChatGPT (GPT-5)
 
